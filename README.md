@@ -1,6 +1,6 @@
 
 <p align="center">
- <img src='https://github.com/gabrielmotablima/gabrielmotablima/assets/31813682/7b47c4f9-4ae0-4b49-b18d-7323decb6806'>  <!-- width='800'> -->
+ <img src='data-man.png'>  <!-- width='800'> -->
 </p>
 
 # Hi there! :bowling:
