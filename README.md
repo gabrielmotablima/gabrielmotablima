@@ -5,4 +5,4 @@
 > [!IMPORTANT]
 > Visit my personal page <a href="https://gabrielmotablima.github.io/" target="_blank">Gabriel Lima - Data Scientist & AI Researcher</a>.
 > 
-> Feel free to look, change, and reuse the repositories contents! 
+> Feel free to look, change, and reuse the repository's contents! 
